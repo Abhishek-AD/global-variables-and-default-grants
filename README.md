@@ -8,7 +8,8 @@ These three folders cotain defaukt global vriables provided by cloud services an
 
 ## MySQL Verion
 1. AWS-RDS - MySQL 8.0.19
-2. GCP -MySQL 5.7
+2. GCP - MySQL 5.7
+3. Azure - MySQL 8.0
 
 
 
